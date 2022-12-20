@@ -1,1 +1,1 @@
-# CP0_Cardiopathie.ipynb
+Ce referentiel porte tous mes projets de GoMyCode.
